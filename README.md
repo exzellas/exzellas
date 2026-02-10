@@ -32,7 +32,7 @@ Experienced **Java Developer** with a strong background in building scalable sys
 ---
 
 ### 📊 GitHub Stats
-![Vatcharakon's GitHub stats](https://github-readme-stats.vercel.app/api?username=exzellas&show_icons=true&theme=radical)
+![Korn's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exzellas&theme=monokai)
 
 ---
 
