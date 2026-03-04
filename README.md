@@ -37,5 +37,5 @@ Experienced **Java Developer** with a strong background in building scalable sys
 ---
 
 ### 📫 How to reach me
-- **Email:** [vatcharakon@anikuma.net](mailto:vatcharakon@anikuma.net)
+- **Email:** [contact@vatcharakon.dev](mailto:contact@vatcharakon.dev)
 - **Website:** [anikuma.net](https://anikuma.net)
